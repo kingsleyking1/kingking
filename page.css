@@ -1,0 +1,51 @@
+.imag{
+    display: flex;
+    justify-content: center;
+}
+.content{
+    display: flex;
+    width: 300mm;
+    justify-content: center;
+    
+}
+
+.background{
+    background-color: skyblue;
+}
+
+.login{
+    display: flex;
+    justify-content: right;
+}
+
+.sign-up{
+    display: flex;
+    justify-content: left;
+}
+
+
+.imag2{
+    display: flex;
+    justify-content:  center;
+}
+
+.main-body{
+    display: flex;
+    justify-content: center;
+}
+.enter{
+    display: flex;
+    justify-content: left;
+}
+
+.FORGET{
+    display: flex;
+    justify-content: right;
+}
+
+.color{
+    background-color: skyblue;
+
+}
+
+
