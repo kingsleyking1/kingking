@@ -116,12 +116,9 @@ section{
         border-bottom: var(--border);
         clip-path: polygon(0 0, 100% 0,100% 0,0 0);
         transition: .2s linear;
-    }
-    .home-bg{
-     margin-top:15px;
-  }
+ 
     .about{
-     margin-top:15px;
+     margin-top:-15px;
 }
     .header .flex .navbar.active{
         clip-path: polygon(0 0, 100% 0,100% 100%,0% 100%);
