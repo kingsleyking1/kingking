@@ -327,10 +327,8 @@ font-size: 40px;
     width: 100%;
     border-radius: 30px;
     flex-wrap: wrap;
-    
-
-
-
+ 
+   box-shadow:none;
    }
    .service p:nth-child(1){
        font-family: calibri;
