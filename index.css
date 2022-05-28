@@ -102,7 +102,7 @@ section{
     #menu-btn{
         display: inline-block;
         transition: .2s linear;
-        width: max-width;
+        width: 100%;
     }
 
     #menu-btn.fa-times{
